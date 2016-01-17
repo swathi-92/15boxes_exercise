@@ -1,0 +1,21 @@
+ 
+ .divblock div {
+     display: inline-block;
+ }
+ .content{
+    width:200px;
+    height:200px;
+    border:5px solid pink;
+    overflow: auto;
+ }
+ .invalid {
+     width: 100px;
+     height: 100px;
+     background-color:cyan;
+ }
+ 
+ .valid {
+     width: 100px;
+     height: 100px;
+     background-color:green;
+ }
